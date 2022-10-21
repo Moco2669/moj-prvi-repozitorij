@@ -2,5 +2,5 @@
 
 int main(){
   printf("Najaci covek");
-  return 0; //BUDALO NISI METNUO RETURN 0
+  return 0;
 }
