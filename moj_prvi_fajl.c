@@ -2,4 +2,5 @@
 
 int main(){
   printf("Najaci covek");
+  return 0;
 }
